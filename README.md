@@ -18,11 +18,12 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-репозиторий.git
-   cd ваш-репозиторий
+   git clone https://github.com/hom9ki97/letters-project.git
+   
 2. Запустите проект:
    ```bash
    docker compose up
+   
 3. Остановите проект:
     ```bash
    docker compose down
