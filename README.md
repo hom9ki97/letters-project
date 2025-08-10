@@ -19,6 +19,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/hom9ki97/letters-project.git
+   cd letters-project
    
 2. Запустите проект:
    ```bash
